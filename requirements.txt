@@ -1,0 +1,4 @@
+tqdm
+plotly
+sqrll @ git+https://github.com/wrongbad/sqrll.git@master
+tensormidi @ git+https://github.com/wrongbad/tensormidi.git@master
